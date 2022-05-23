@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\КПиЯП практика\1\Dop-7\bin\Debug\netcoreapp3.1\Dop-7.exe
+C:\Users\Admin\Desktop\КПиЯП практика\1\Dop-7\bin\Debug\netcoreapp3.1\Dop-7.deps.json
+C:\Users\Admin\Desktop\КПиЯП практика\1\Dop-7\bin\Debug\netcoreapp3.1\Dop-7.runtimeconfig.json
+C:\Users\Admin\Desktop\КПиЯП практика\1\Dop-7\bin\Debug\netcoreapp3.1\Dop-7.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\КПиЯП практика\1\Dop-7\bin\Debug\netcoreapp3.1\Dop-7.dll
+C:\Users\Admin\Desktop\КПиЯП практика\1\Dop-7\bin\Debug\netcoreapp3.1\Dop-7.pdb
+C:\Users\Admin\Desktop\КПиЯП практика\1\Dop-7\obj\Debug\netcoreapp3.1\Dop-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\КПиЯП практика\1\Dop-7\obj\Debug\netcoreapp3.1\Dop-7.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\КПиЯП практика\1\Dop-7\obj\Debug\netcoreapp3.1\Dop-7.AssemblyInfo.cs
+C:\Users\Admin\Desktop\КПиЯП практика\1\Dop-7\obj\Debug\netcoreapp3.1\Dop-7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПиЯП практика\1\Dop-7\obj\Debug\netcoreapp3.1\Dop-7.dll
+C:\Users\Admin\Desktop\КПиЯП практика\1\Dop-7\obj\Debug\netcoreapp3.1\Dop-7.pdb
+C:\Users\Admin\Desktop\КПиЯП практика\1\Dop-7\obj\Debug\netcoreapp3.1\Dop-7.genruntimeconfig.cache
